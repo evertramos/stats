@@ -133,3 +133,8 @@ releasing work publicly on the Web.
   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 - Makes use of [GitHub Octicons](https://primer.style/octicons/) to precisely
   match the GitHub UI
+
+### Secrets
+
+- EXCLUDED_LANGS = Python,Blade,SCSS,Visual Basic,Vue,Vim script
+- EXCLUDED = evertramos/stats,evertramos/basis-package,evertramos/basis,evertramos/pingcrm,evertramos/hitcount
